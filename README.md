@@ -7,7 +7,7 @@
 Run in your terminal
 
 ```bash 
-git clone git@github.com:webRTC/webrtc.io-demo.git
+git clone git@github.com:ErnestRybka/lab14WebRtc.io.git
 ```
 
 ```bash 
